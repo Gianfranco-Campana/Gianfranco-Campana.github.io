@@ -17,4 +17,4 @@ If the answer is yes, nice... you can understand what happens to me where some s
 
 Yes, this websit is my market basket, so if you landed here and are curious to see what is in my mind and some -hopefully- useful work I can share, you are in the right place ! :) 
 
-Feel free to **[subscribe](http://gianfranco-campana.github.io/feed.xml)!** my RSS and nicely comment it out !
+Feel free to **[subscribe](http://gianfranco-campana.github.io/feed.xml)** my RSS and nicely comment it out !
