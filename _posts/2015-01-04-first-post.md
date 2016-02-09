@@ -7,7 +7,6 @@ date: ""
 ---
 
 
-
 Did you ever find yourself in a situation where you didn't take the market basket thinking: "ohhh... I've just two little things to buy..."
 
 and then after some minutes you are with your arms full of rickety products covering your sight threatening to fall on the floor all the time ... and missing some piece off and on all your eyes seek, moving from side to side, is a basket or cart where you drop them?
