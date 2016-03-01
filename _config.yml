@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: empty website
+title: Gianfranco Campana website
 
 # Short description of your site
-description: to be come...!
+Data Science, Astrophysics, daily challenges and thing to remeber..
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/signature profile.jpg"
+avatar: "/img/Avatar_square.jpg"
 
 # List of links in the navigation bar
 navbar-links:
