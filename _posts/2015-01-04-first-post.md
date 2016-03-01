@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First post!"
+title: "Let's start!"
 published: true
 subtitle: null
 date: "2015-01-04"
@@ -15,6 +15,6 @@ and then after some minutes you are with your arms full of rickety products cove
 
 If the answer is yes, nice... you can understand what happens to me where some sparks of ideas, some achievements or discovers, some surprise or funny work, risk to be miss from any chance to be saved or shared, and would be beautiful to find a place where to "drop them" ;)
 
-Yes, this websit is my market basket, so if you landed here and are curious to see what is in my mind and some -hopefully- useful work I can share, you are in the right place ! :) 
+Yes, this website is my market basket, so if you landed here and are curious to see what is in my mind and some -hopefully- useful work I can share, you are in the right place! :)
 
 Feel free to **[subscribe](http://gianfranco-campana.github.io/feed.xml)** my RSS and nicely comment it !
