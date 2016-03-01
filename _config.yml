@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Gianfranco Campana website
+title: "Gianfranco Campana website"
 
 # Short description of your site
-"Data Science, Astrophysics, daily challenges and thing to remeber.."
+Data Science, Astrophysics, daily challenges and thing to remeber..
 
 # --- Navigation bar options --- #
 
