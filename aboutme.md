@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm a dad. I'm a husband. I'm a curious man, his eyes often turned to the sky.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gianfranco Campana. I live in Italy, were I work for Megamark (at 2016) in many different projects data-and-business-related.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I enjoy my work and keep to follow a lifelong education, mostly but not only on online platforms (MIT-ProfessionalX, edX, Coursera, Googlelearn)
 
-What else do you need?
+I also like to research, experiment and build something new by myself, often using some of the tools that I master, in unconventional way.
 
-### my history
+If you are reading this, you are already part of one of my target of 2016: to have a followed blog ;)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+and so... thank you!!!
